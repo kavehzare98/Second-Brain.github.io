@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"71ef97e829db04c9","type":"text","text":"","x":-550,"y":-407,"width":250,"height":60},
+		{"id":"5b72661df2ab6226","type":"text","text":"**Daily To Do:** June 18\n- [ ] Call Dr. Lavi\n- [ ] Call Dentist\n- [ ] Work on Financial Proj\n- [ ] Read a chapter of Grokking (Ch. 4 - QS)\n- [ ] Read Linux Essentials (1 hour)\n- [ ] Laundry\n- [ ] Eat Healthy\n- [ ] Grocery Shopping\n- [ ] Transfer Appointment (1 hour)\n- [ ] Work on ML Lecture (5 hours)\n- [ ] Start on Robotics Proposal (Thurs)\n- [ ] Start Designing Stats Lecture (Thurs)\n- [ ] Robotics Meeting\n- [ ] Work Meeting","x":-900,"y":-760,"width":250,"height":560,"color":"1"},
+		{"id":"63695fbf5b6e2a35","type":"text","text":"**Programmer:**\nI'm developing my programming craft and will take an approach of someone who's an apprentice and is willing to learn new technologies and takes deep notes on related matters. I'll spend a lot of time reading, coding, and reading docs.","x":-900,"y":60,"width":250,"height":320,"color":"4"},
+		{"id":"ee5bf55fc05ca61d","type":"text","text":"- Code for 2 hours every day\n- Read relevant documentation and books\n- Learn from more advanced people\n- Find a mentor and meet weekly","x":-560,"y":76,"width":250,"height":288,"color":"3"},
+		{"id":"fbc76170d30a5fde","type":"text","text":"**Good Partner and Son:**\nSomeone who takes care of their loved ones, is patient, cares to ask about their day, goes out of the way to do nice things for them.","x":-900,"y":480,"width":250,"height":279,"color":"4"},
+		{"id":"0564da4d1ab02fa6","type":"text","text":"- Clean up the house (son)\n- Be nice to both \n- Cook them food\n- Buy them flowers\n- Take partner on a date a week","x":-560,"y":480,"width":250,"height":279,"color":"3"},
+		{"id":"601788023cfc3c29","type":"text","text":"- Work Out Everyday\n- Consistently Eat Healthy\n- Intermittent Fast\n- Sleep Well (8+ Hours)","x":-560,"y":-170,"width":250,"height":159,"color":"3"},
+		{"id":"ba4df42a8e4e7397","type":"text","text":"Outcomes:\n- Lose 44 lbs by Year End (8 lbs/month)\n- Become Happier\n- No self-image body issues","x":-200,"y":-170,"width":320,"height":210,"color":"2"},
+		{"id":"b6f919a36b63e3bd","type":"text","text":"- Get your first real internship next summer\n- Become a more productive team member\n- Become more knowledgable\n- Be able to take projects from start to finish","x":-200,"y":113,"width":320,"height":215,"color":"2"},
+		{"id":"149fc6f85b02d427","type":"text","text":"**Healthy & Fit:**\nI'm someone who eats healthy foods (no sugar, alcohol, reduced fats, fasts, works out).","x":-900,"y":-175,"width":250,"height":169,"color":"4"},
+		{"id":"a571abbe60ad7b7e","type":"text","text":"- Have a healthy relationship with girlfriend\n- Have a nice and amicable relationship with mom","x":-200,"y":560,"width":320,"height":120,"color":"2"},
+		{"id":"62b0348e27a51d82","type":"file","file":"Files/Habits Stack.md","x":200,"y":-760,"width":680,"height":820},
+		{"id":"e415f8c7394b3293","type":"file","file":"Files/Habit Tracker.md","x":-560,"y":-760,"width":680,"height":520}
+	],
+	"edges":[
+		{"id":"fd07e8cd7ae20c20","fromNode":"149fc6f85b02d427","fromSide":"right","toNode":"601788023cfc3c29","toSide":"left"},
+		{"id":"104e9ae84fa0d318","fromNode":"601788023cfc3c29","fromSide":"right","toNode":"ba4df42a8e4e7397","toSide":"left"},
+		{"id":"fe1d5c29b0c4ab5b","fromNode":"63695fbf5b6e2a35","fromSide":"right","toNode":"ee5bf55fc05ca61d","toSide":"left"},
+		{"id":"76509b7c30713723","fromNode":"ee5bf55fc05ca61d","fromSide":"right","toNode":"b6f919a36b63e3bd","toSide":"left"},
+		{"id":"e360502d268a7213","fromNode":"0564da4d1ab02fa6","fromSide":"right","toNode":"a571abbe60ad7b7e","toSide":"left"},
+		{"id":"d739c5860049d6f8","fromNode":"fbc76170d30a5fde","fromSide":"right","toNode":"0564da4d1ab02fa6","toSide":"left"}
+	]
+}
